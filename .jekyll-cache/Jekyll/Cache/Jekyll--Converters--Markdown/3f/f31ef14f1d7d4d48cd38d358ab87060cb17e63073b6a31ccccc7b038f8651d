@@ -1,0 +1,24 @@
+I"N<p>I decided to take the time that working from home has given me to refocus on my FrontEnd skills.  While I am still having to work my regular job, I have an opportunity to take the time that I would normally be wating traveling to improve on my skills.  The easiest way to do this is by focusing on my portfolio which will include my projects.</p>
+
+<p>The projects that I will be including in my portfolio will be Bloc Jams, Bloc Flix, Bloc Chat, and Bloc To-Do.  I will also have a blog section which I will discuss any challenges that I have encountered.</p>
+
+<h3 id="bloc-jams">Bloc Jams</h3>
+<p>((What is it?))
+<img src="/img/BlocJams.jpg" alt="BlocJams Screen" title="BlocJams Screenshot" /></p>
+
+<h3 id="bloc-flix">Bloc Flix</h3>
+<p>Here’s an example of what BlocFlix looks like.  It is a rudimentary version of NetFlix in which the user is able to browse movies:</p>
+
+<p><img src="/img/blocflix.png" alt="Geometric pattern with fading gradient" /></p>
+
+<h3 id="blocchat">BlocChat</h3>
+<p>BlocChat is an app that permits users to communicate with others. The app utilizes <strong><em>Firebase</em></strong> which is a <strong>Backend as a Service (BaaS)</strong> that is provided to be used by <em>Google</em>. User’s are able to create an account which will be used to sign into the chat rooms. The chat app stores the user information for access later.
+Users are allowed to create new chatrooms to be accessed as needed.</p>
+
+<p><img src="/img/blocchat.jpg" alt="BlocChat Screen" title="BlocChat Screenshot" /></p>
+
+<h3 id="bloc-to-do">Bloc To-Do</h3>
+<p>((What is it?))</p>
+
+<p>Jeykll supports the use of <a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a> with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.</p>
+:ET

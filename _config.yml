@@ -5,16 +5,16 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Misael Edgar Beltrán # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Lifelong Learner Who Enjoys Challenges</h1>
+     <p>There is never a dull moment when it comes to coding. There's always something to learn or somethings that's been changed.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Portfolio Misael is Powered by <a href="http://jekyllrb.com">Jekyll</a>.
 
   # Icons
   rss: false
@@ -24,7 +24,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: https://github.com/MisaelB75
+  github: MisaelB75
   google_plus:
   instagram:
   linkedin:  https://www.linkedin.com/in/misael-edgar-beltr%C3%A1n-81324679/

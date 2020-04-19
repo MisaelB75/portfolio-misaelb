@@ -1,0 +1,23 @@
+I"‰<p>I decided to take the time that working from home has given me to refocus on my FrontEnd skills.  While I am still having to work my regular job, I have an opportunity to take the time that I would normally be wating traveling to improve on my skills.  The easiest way to do this is by focusing on my portfolio which will include my projects.</p>
+
+<p>The projects that I will be including in my portfolio will be Bloc Jams, Bloc Flix, Bloc Chat, and Bloc To-Do.  I will also have a blog section which I will discuss any challenges that I have encountered.</p>
+
+<p>##H2 Bloc Jams</p>
+
+<p>((What is it?))</p>
+
+<p>##H2 Bloc Flix
+Hereâ€™s an example of an image, which is included using Markdown:</p>
+
+<p><img src="/img/blocflix.png" alt="Geometric pattern with fading gradient" /></p>
+
+<p>##H2 Bloc Chat</p>
+
+<p>((What is it?))</p>
+
+<p>##H2 Bloc To-Do</p>
+
+<p>((What is it?))</p>
+
+<p>Jeykll supports the use of <a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a> with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.</p>
+:ET
